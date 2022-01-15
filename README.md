@@ -34,6 +34,7 @@ Data Analysis
 ### The results are displayed as word cloud graph results
 ![image](https://user-images.githubusercontent.com/89116676/149606939-d9e6f658-7f77-4e55-9989-6e3ca7bd83a7.png)
 
+![image](https://user-images.githubusercontent.com/89116676/149616094-89c13c35-817b-4791-9ee8-aa257c00a97b.png)
 
 
 ![image](https://user-images.githubusercontent.com/89116676/149615691-892eb4c9-d6ee-45e6-b818-be697a76ae41.png)
