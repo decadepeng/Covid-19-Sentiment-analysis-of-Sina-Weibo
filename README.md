@@ -1,9 +1,9 @@
 # Covid-19-Sentiment-analysis-of-Sina-Weibo
 
-# Background
+## Background
 In 2020, the outbreak of the covid-19 epidemic has had a huge impact on China's society and economy. During this period, there were frequent discussions about the  covid-19 epidemic on the Internet, and netizens discussed related topics and inadvertently revealed personal emotional tendencies, such as whether the attitude towards the  covid-19 epidemic was panicked or optimistic. Based on this starting point, this project crawled the Weibo message content on the topic of  covid-19 epidemic from January to February 2020, and visualized the emotional trends of some netizens through label data visualization. This project shows the emotional tendency trend of public opinion in the early stage of the outbreak of  covid-19 epidemic, so that more people can understand the real situation of social opinion.
 
-# Requirements
+## Requirements
 **matplotlib**
 
 **pandas**
@@ -15,7 +15,11 @@ In 2020, the outbreak of the covid-19 epidemic has had a huge impact on China's 
 **jieba**
 
 
-# Project Presentation
+## Methods Used
+Data Visualization
+Data Analysis
+
+## Project Presentation
 
 ![image](https://user-images.githubusercontent.com/89116676/149249614-6248e95b-c0b6-481e-8997-b5a446560c1d.png)
 
