@@ -36,10 +36,6 @@ Data Analysis
 
 ![image](https://user-images.githubusercontent.com/89116676/149616094-89c13c35-817b-4791-9ee8-aa257c00a97b.png)
 
-
-![image](https://user-images.githubusercontent.com/89116676/149615691-892eb4c9-d6ee-45e6-b818-be697a76ae41.png)
-
-
 ![image](https://user-images.githubusercontent.com/89116676/149249673-c7d0d0ab-777a-4cec-89b8-b0f38e04bed3.png)
 
 
