@@ -34,9 +34,9 @@ Data Analysis
 ### The results are displayed as word cloud graph results
 ![image](https://user-images.githubusercontent.com/89116676/149606939-d9e6f658-7f77-4e55-9989-6e3ca7bd83a7.png)
 
-![image](https://user-images.githubusercontent.com/89116676/149616094-89c13c35-817b-4791-9ee8-aa257c00a97b.png)
+![1](https://user-images.githubusercontent.com/89116676/149928401-02f112c0-6203-493b-81d3-5b75d69b9752.jpg)
 
-![image](https://user-images.githubusercontent.com/89116676/149249673-c7d0d0ab-777a-4cec-89b8-b0f38e04bed3.png)
 
+![2](https://user-images.githubusercontent.com/89116676/149928409-54016712-4302-4bf8-90b3-35112b0d1e6a.jpg)
 
 The first step of this report is to preview the data size and observe the shape of the data through simple statistical data information in Python. The second step is to visualize the data, use matplotlib, seaborn and other three-point libraries to draw data charts to further understand the data situation, and analyze the variables that may be related to the label data, that is, the content of Weibo Chinese. The third step is to process the missing and outlier values in the data through data preprocessing to prepare for subsequent analysis. In the fourth step, through LDA theme modeling, the theme modeling of Weibo Chinese content is established, and a word cloud map is established to visualize it. The fifth and sixth steps use two algorithms, namely SVM and decision tree, to establish the corresponding text word vector through feature extraction of the text, and then make predictions. The accuracy of the forecasts was 60.2% and 56.6%, respectively. The result of the investigation is mainly due to the different characteristics of the two algorithms. SVMs can handle high-dimensional features and use kernel functions to easily cope with nonlinear feature spaces, and classified hyperplane surfaces are not dependent on all data. However, SVMs are inefficient against high-dimensional sparse data and are dependent on the choice of kernel functions. Decision-making can easily handle nonlinear features, but is prone to overfitting in the face of high-dimensional data.
